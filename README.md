@@ -9,4 +9,6 @@ Ever wondered what your public ip address is?  Well now you can easily find it f
 
 ```
 
-We were looking for a super simple way to find your ip, now you can find out simply by asking `whatismyip`!
+We were looking for a super simple way to find your ip and I think we found, now you can find out simply by asking `whatismyip`! Magical.
+
+Internet access not included.
